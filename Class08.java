@@ -27,8 +27,3 @@ public class 08 {
 		cc.show(); // 印出 num=5
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privac
